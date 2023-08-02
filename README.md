@@ -24,7 +24,7 @@
   
 * \[2019/02\] [**On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition**](https://arxiv.org/abs/1902.01955)  : Y
   
-* \[2019/04\] [**wav2vec: Unsupervised Pre-training for Speech Recognition**] (https://arxiv.org/abs/1904.05862?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529) : KY
+* \[2019/04\] [**wav2vec: Unsupervised Pre-training for Speech Recognition**](https://arxiv.org/abs/1904.05862?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529) : KY
   
 * \[2019/05\] [**Transformers with convolutional context for ASR**](https://arxiv.org/abs/1904.11660)  
   
