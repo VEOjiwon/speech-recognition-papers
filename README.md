@@ -28,9 +28,9 @@
   
 * \[2019/05\] [**Transformers with convolutional context for ASR**](https://arxiv.org/abs/1904.11660)  
   
-* \[2019/08\] [**Jasper: An End-to-End Convolutional Neural Acoustic Model**](https://arxiv.org/pdf/1904.03288.pdf)  :ya
+* \[2019/08\] [**Jasper: An End-to-End Convolutional Neural Acoustic Model**](https://arxiv.org/pdf/1904.03288.pdf) 
   
-* \[2019/11\] [**End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures**](https://arxiv.org/abs/1911.08460)  : j
+* \[2019/11\] [**End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures**](https://arxiv.org/abs/1911.08460)
   
 * \[2020/05\] [**ContextNet: Improving Convolutional Neural Networks for ASR with Global Context**](https://arxiv.org/abs/2005.03191)  
   
